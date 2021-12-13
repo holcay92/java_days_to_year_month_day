@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class Pro1_150120056 {
+public class DaysToYearMonthDay {
 
 	public static void main(String[] args) {
 		
